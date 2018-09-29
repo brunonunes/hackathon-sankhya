@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"hackagroup.uploads"},{"v":2,"key":{"keywords":1},"name":"keywords_1","ns":"hackagroup.uploads","background":true}],"uuid":"13e9f3d5d9e741c492ce1e8d509fd278"}
