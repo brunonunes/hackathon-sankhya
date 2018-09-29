@@ -1,1 +1,0 @@
-# Quero Grátis Server API
